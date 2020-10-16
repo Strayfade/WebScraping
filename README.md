@@ -3,6 +3,7 @@ WebScraping NodeJS Application for all your web-scraping needs!
 
 ### Usage
 Download and extract .zip code, then I prefer to open with VS Code.
+Run SETUP.bat to automatically install required prequisities (npm packages)
 
 
 Change variable "startSearch" to the text (HTML Source) JUST BEFORE the information you wish to scrape.
