@@ -1,5 +1,11 @@
 # WebScraping
-WebScraping NodeJS Application for all your web-scraping needs! 
+
+**WebScraping**: WebScraping NodeJS Application for all your web-scraping needs!
+
+![](https://img.shields.io/github/v/release/Strayfade/WebScraping?style=flat-square)
+![](https://img.shields.io/github/commit-activity/m/Strayfade/WebScraping?style=flat-square)
+![](https://img.shields.io/github/repo-size/Strayfade/WebScraping?style=flat-square)
+![](https://img.shields.io/github/license/Strayfade/WebScraping?style=flat-square)
 
 ### Usage
 Download and install NodeJS for PATH, found here: https://nodejs.org/dist/v12.19.0/node-v12.19.0-x64.msi
